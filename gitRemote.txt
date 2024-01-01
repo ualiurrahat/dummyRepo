@@ -1,0 +1,10 @@
+HOW TO PUSH A COMMIT
+= 1. github account
+  2. empty repo
+  3.local system
+	->git config --global user.name "ualiurrahat"
+	->git config --global user.email "ualiurrahat25@gmail.com"
+
+  4. git push -u origin master
+ 	4.1. username?-> ualiurrahat
+	4.2. password?-> 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   (github token)
